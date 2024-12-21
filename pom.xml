@@ -1,4 +1,4 @@
-<!-- <project>
+ <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>mygroupid</groupId>
   <artifactId>myartifactid</artifactId>
@@ -51,7 +51,7 @@
     </plugins>
   </build>
 </project>
-*/ -->
+
 
 
 <!-- <project>
@@ -98,7 +98,7 @@
     </project> -->
 
 
-<project>
+<!-- <project>
     <modelVersion>4.0.0</modelVersion>
     <groupId>mygroupid</groupId>
     <artifactId>myartifactid</artifactId>
@@ -172,4 +172,4 @@
         </build>
     </project>
 
- -->
+ --> -->
